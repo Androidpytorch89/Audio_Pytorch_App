@@ -1,0 +1,2 @@
+rootProject.name='fdrw2'
+include ':app'
